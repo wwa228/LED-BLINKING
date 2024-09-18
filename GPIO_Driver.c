@@ -1,6 +1,3 @@
-
-
-
 #include <msp430.h>
 #include "GPIO_Driver.h"
 
