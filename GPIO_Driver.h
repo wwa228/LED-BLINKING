@@ -1,10 +1,3 @@
-/*
- * GPIO_Driver.h
- *
- *  Created on: Sep 16, 2024
- *      Author: wiesm
- */
-
 #define GPIO_DRIVER_H_
 #define GPIO_DRIVER_H_
 
