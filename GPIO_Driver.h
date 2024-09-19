@@ -9,4 +9,4 @@ void gpioWrite(unsigned int Port, unsigned char Pin, unsigned char value);
 
 
 
-#define /* GPIO_DRIVER_H_ */
+#endif /* GPIO_DRIVER_H_ */
